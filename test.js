@@ -9,3 +9,5 @@ console.log('Hello world3');
 console.log('Test3');
 const a = 2
 console.log('test');
+
+console.log('TA ZMIANA ZOSTAŁA DODANA NA DEVELOPIE!');
